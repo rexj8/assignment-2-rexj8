@@ -131,5 +131,20 @@ class BST
 
     }
 
+    public void postorder()
+
+    {
+
+        postorder(root);
+
+    }
+
+    private void postorder(Node r)
+
+    {
+
+
+
+    }
 
 }
