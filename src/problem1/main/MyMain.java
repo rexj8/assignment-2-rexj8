@@ -7,9 +7,12 @@
 package problem1.main;
 // executable class
 
+import java.util.Scanner;
+
 public class MyMain {
 
     public static void main(String[] args) {
+
 
     }
 
