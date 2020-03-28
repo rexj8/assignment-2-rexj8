@@ -36,4 +36,12 @@ class BST
 
 {
     private Node root;
+
+    public BST()
+
+    {
+
+
+
+    }
 }
