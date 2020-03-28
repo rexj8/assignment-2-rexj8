@@ -17,14 +17,15 @@ class Node
     int data;
 
 
+    public Node(int n)
+
+    {
 
 
+
+    }
 
 }
-
-
-
-
 
 
 
