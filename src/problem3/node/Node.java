@@ -15,6 +15,16 @@ class Node
     protected Node link;
 
 
+    public Node()
+
+    {
+
+        link = null;
+
+        data = 0;
+
+    }
+
 
 
 
