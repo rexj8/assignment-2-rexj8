@@ -32,4 +32,8 @@ class Node
 }
 
 
+class BST
 
+{
+
+}
