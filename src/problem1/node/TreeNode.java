@@ -21,7 +21,11 @@ class Node
 
     {
 
+        left = null;
 
+        right = null;
+
+        data = n;
 
     }
 
