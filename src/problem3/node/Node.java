@@ -6,5 +6,16 @@
  */
 package problem3.node;
 
-public class Node {
+class Node
+
+{
+
+    protected int data;
+
+    protected Node link;
+
+
+
+
+
 }
