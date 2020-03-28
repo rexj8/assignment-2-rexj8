@@ -105,5 +105,31 @@ class BST
 
     }
 
+    public void preorder()
+
+    {
+
+        preorder(root);
+
+    }
+
+    private void preorder(Node r)
+
+    {
+
+        if (r != null)
+
+        {
+
+            System.out.print(r.data +" ");
+
+            preorder(r.left);
+
+            preorder(r.right);
+
+        }
+
+    }
+
 
 }
