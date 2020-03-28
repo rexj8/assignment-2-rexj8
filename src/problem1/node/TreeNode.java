@@ -78,4 +78,32 @@ class BST
         return node;
 
     }
+
+    public void inorder()
+
+    {
+
+        inorder(root);
+
+    }
+
+    private void inorder(Node r)
+
+    {
+
+        if (r != null)
+
+        {
+
+            inorder(r.left);
+
+            System.out.print(r.data +" ");
+
+            inorder(r.right);
+
+        }
+
+    }
+
+
 }
