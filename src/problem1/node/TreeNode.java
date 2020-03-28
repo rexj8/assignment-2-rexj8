@@ -41,7 +41,7 @@ class BST
 
     {
 
-
+        root = null;
 
     }
 }
