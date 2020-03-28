@@ -35,5 +35,5 @@ class Node
 class BST
 
 {
-
+    private Node root;
 }
