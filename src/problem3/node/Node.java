@@ -26,6 +26,16 @@ class Node
     }
 
 
+    public Node(int d,Node n)
+
+    {
+
+        data = d;
+
+        link = n;
+
+    }
+
 
 
 }
