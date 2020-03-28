@@ -6,5 +6,34 @@
  */
 package problem3.myqueue;
 
-public class MyPriorityQueue {
+import problem3.node.Node;
+
+import java.util.NoSuchElementException;
+
+class MyPriorityQueue
+
+{
+
+    protected Node front, rear;
+
+    public int size;
+
+
+
+    /* Constructor */
+
+    public MyPriorityQueue()
+
+    {
+
+        front = null;
+
+        rear = null;
+
+        size = 0;
+
+    }
+
+
+
 }

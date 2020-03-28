@@ -6,7 +6,7 @@
  */
 package problem3.node;
 
-class Node
+public class Node
 
 {
 
