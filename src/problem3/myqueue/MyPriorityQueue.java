@@ -10,7 +10,7 @@ import problem3.node.Node;
 
 import java.util.NoSuchElementException;
 
-class MyPriorityQueue
+public class MyPriorityQueue
 
 {
 
