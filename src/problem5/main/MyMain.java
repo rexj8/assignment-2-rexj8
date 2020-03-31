@@ -23,6 +23,11 @@ public class MyMain
             node = new Node(new Student());
             m.enqueue(node);
         }
+        m.printQueue();
 
+        m.remove(new Scanner(System.in).next());
+        m.printQueue();
+
+        m.process(new Scanner(System.in).next());
     }
 }
